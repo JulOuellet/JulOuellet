@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/julienouellet?label=Follow&style=social)](https://github.com/julienouellet)
 
-Welcome to my GitHub profile! I'm a Computer Engineering student at Laval University, passionate about creating efficient and scalable systems. I have experience in a variety of programming languages and a strong interest in backend development, embedded software, Linux, and Linux kernel module development.
+Welcome to my GitHub profile! I'm a Computer Engineering student at Laval University. Here is a bit about me!
 
 ## 🌟 Experiences
 
