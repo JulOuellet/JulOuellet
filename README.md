@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Julien Ouellet!
+# About me
 
 [![GitHub followers](https://img.shields.io/github/followers/julienouellet?label=Follow&style=social)](https://github.com/julienouellet)
 
