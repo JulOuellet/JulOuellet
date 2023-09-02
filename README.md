@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at Laval Univer
 - 💻 **FPGA**: Leveraged FPGA technology for custom hardware applications.
 - 🐧 **Linux Kernel Modules**: Developed and tinkered with Linux kernel modules for various projects.
 
-### 📚 Technologies I Love
+### 💾 Technologies I Love
 
 - 💻 **Programming Languages**: C, Java, Python, VHDL, Rust (currently learning), Lua (currently learning)
 - 🌐 **Backend Development**: Building scalable and efficient backend systems.
