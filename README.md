@@ -1,6 +1,6 @@
 # About me
 
-[![GitHub followers](https://img.shields.io/github/followers/julienouellet?label=Follow&style=social)](https://github.com/julienouellet)
+[![GitHub followers](https://img.shields.io/github/followers/julouellet?label=Follow&style=social)](https://github.com/julienouellet)
 
 Welcome to my GitHub profile! I'm a Computer Engineering student at Laval University. Here is a bit about me!
 
