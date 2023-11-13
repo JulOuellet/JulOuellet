@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at Laval Univer
 
 ### 💾 Technologies I Love
 
-- 💻 **Programming Languages**: C, Java, Python, VHDL, Rust (currently learning), Lua (currently learning), JavaScript (currently learning)
+- 💻 **Programming Languages**: C, Java, Rust, Python, VHDL, Lua, JavaScript
 - 🧠 **Embedded Software**: Working on firmware and software for embedded systems.
 - 🐧 **Linux Enthusiast**: Exploring the open-source world and diving deep into Linux internals.
 - 🚀 **Scalable Systems**: Designing systems that can grow with demand.
