@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at Laval Univer
 - 🚀 **Embedded Linux**: Worked on software development for embedded Linux systems and gained expertise in embedded C.
 - 💻 **FPGA**: Leveraged FPGA technology for custom hardware applications.
 - 🐧 **Linux Kernel Modules**: Developed and tinkered with Linux kernel modules for various projects.
+- 🦀 **Asynchronous Rust Backend Development**: Developed a backend system utilizing asynchronous Rust with the Axum framework and Tokio runtime.
 
 ### 💾 Technologies I Love
 
