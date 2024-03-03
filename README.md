@@ -1,6 +1,6 @@
 # About me
 
-Welcome to my GitHub profile! I'm a Computer Engineering student at Laval University and backend software developer. Here is a bit about me!
+I'm a Computer Engineering student at Laval University and backend software developer. Here is a bit about me!
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/julien-ouellet-6173321bb/)
 - Email: [julien.ouellet.9@ulaval.ca](mailto:julien.ouellet.9@ulaval.ca)
