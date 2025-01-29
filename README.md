@@ -1,22 +1,26 @@
-# About me
+## Julien Ouellet  
 
-I'm a Computer Engineering student at Laval University and backend software developer. Here is a bit about me!
+### Backend Developer | Computer Engineering Graduate  
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/julien-ouellet-6173321bb/)
-- Email: [julien.ouellet.9@ulaval.ca](mailto:julien.ouellet.9@ulaval.ca)
+I am a backend developer with a Computer Engineering degree from Laval University. My expertise lies in designing and implementing scalable, high-performance backend systems. Additionally, I have experience in embedded systems development, working with low-level programming and hardware design.  
 
-### 🌟 Experiences
+### 🔹 Professional Experience  
+I have experience working with distributed systems, event-driven architectures, and high-throughput data processing pipelines. My primary stack includes:  
 
-- 💼 **Real-Time Event Streaming with Kafka**: Contributed to the development of a real-time event streaming platform using Kafka to power data-driven applications.
-- 🌐 **Data Mesh**: Explored the data mesh architecture for scalable data processing and analytics using Kafka Streams.
-- 🚀 **Embedded Linux**: Worked on software development for embedded Linux systems and gained expertise in embedded C.
-- 💻 **FPGA**: Leveraged FPGA technology for custom hardware applications.
-- 🐧 **Linux Kernel Modules**: Developed and tinkered with Linux kernel modules for various projects.
-- 🦀 **Asynchronous Rust Backend Development**: Developed a backend system utilizing asynchronous Rust with the Axum framework and Tokio runtime.
+- **Java & Spring Boot** – Developing and maintaining enterprise-grade backend services  
+- **Kafka & Kafka Streams** – Building real-time data streaming applications and event-driven architectures  
+- **SQL & Database Management** – Designing and optimizing relational databases  
+- **Microservices & REST APIs** – Scalable and modular service-oriented architectures  
 
-### 💾 Technologies I Love
+### 🔹 Technical Skills  
+- **Backend Development:** Spring Boot, Kafka, Kafka Streams  
+- **Programming Languages:** Java, Rust, Go, C, Python, Lua  
+- **Databases:** PostgreSQL, MongoDB  
+- **System Design:** Microservices, Event-Driven Architecture, Distributed Systems, Data Mesh  
+- **Embedded Systems:** Embedded Linux, C Programming, VHDL for FPGA Design  
+- **DevOps & Cloud:** AWS, Deployment Automation, Cloud Platforms  
 
-- 💻 **Programming Languages**: C, Rust, Java, Python, VHDL, Lua, Go
-- 🧠 **Embedded Software**: Working on firmware and software for embedded systems.
-- 🐧 **Linux Enthusiast**: Exploring the open-source world and diving deep into Linux internals.
-- 🚀 **Scalable Systems**: Designing systems that can grow with demand.
+### 📫 Connect with Me  
+- **LinkedIn:** [Julien Ouellet](https://www.linkedin.com/in/julien-ouellet-6173321bb/)  
+
+I am always looking for new challenges and opportunities to expand my expertise in backend development as well as engineering as a whole.  
